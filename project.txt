@@ -1,0 +1,2 @@
+1. git 을 받아서 설치한다 (https://coding-factory.tistory.com/245)
+
